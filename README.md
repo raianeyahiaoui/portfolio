@@ -16,12 +16,12 @@ Showcasing my background in **Telecommunications Systems**, **AI**, and **Cybers
 ## 🏆 Professional Certifications
 
 <p align="center">
-  <img src="Course certaficate of Introduction to Cybersecurity from CISCO.jpg" alt="Cisco Cybersecurity Certificate" width="160"/>
-  <img src="Course certaficate of Applications of TCP and IP network from HUAWEI.jpeg" alt="Huawei TCP/IP Certificate" width="160"/>
-  <img src="Course certaficate of Introduction to Critical Infrastructure Protection from OPSWAT.png" alt="OPSWAT Critical Infrastructure Certificate" width="160"/>
-  <img src="IELTS Academic test preparation.jpg" alt="IELTS UQ Certificate" width="160"/>
-  <img src="Certaficate of Artificial Intelligence Beginner Guide.png" alt="Simplilearn AI Certificate" width="160"/>
-  <img src="Certaficate of Responsive Web Designe.png" alt="FreeCodeCamp Responsive Web Design Certificate" width="160"/>
+  <img src="Course certaficate of Introduction to Cybersecurity from CISCO.jpg" alt="Cisco Cybersecurity Certificate" height="120" style="margin:5px"/>
+  <img src="Course certaficate of Applications of TCP and IP network from HUAWEI.jpeg" alt="Huawei TCP/IP Certificate" height="120" style="margin:5px"/>
+  <img src="Course certaficate of Introduction to Critical Infrastructure Protection from OPSWAT.png" alt="OPSWAT Critical Infrastructure Certificate" height="120" style="margin:5px"/>
+  <img src="IELTS Academic test preparation.jpg" alt="IELTS UQ Certificate" height="120" style="margin:5px"/>
+  <img src="Certaficate of Artificial Intelligence Beginner Guide.png" alt="Simplilearn AI Certificate" height="120" style="margin:5px"/>
+  <img src="Certaficate of Responsive Web Designe.png" alt="FreeCodeCamp Responsive Web Design Certificate" height="120" style="margin:5px"/>
 </p>
 
 ---
@@ -30,7 +30,7 @@ Showcasing my background in **Telecommunications Systems**, **AI**, and **Cybers
 
 - 📥 [Download CV (PDF)](Raiane_Yahiaoui_CV.pdf)
 - 📑 [Comparative study of deep neural networks architectures, using CASIA and UbirisV2 datasets for iris recognition (Master Thesis, PDF)](Master's%20degree%20graduation%20%20thesis.pdf)
-- 📑 [Design and Implementation of a Trojan Horse “ProRat” (Baccalaureate Thesis, PDF)](Thesis%20of%20Baccalaureate%20Degree%20(Design%20and%20Implementation%20of%20a%20Trojan%20Horse%20ProRat%20(1).pdf)
+- 📑 [Design and Implementation of a Trojan Horse “ProRat” (Baccalaureate Thesis, PDF)](Thesis%20of%20Baccalaureate%20Degree%20%28Design%20and%20Implementation%20of%20a%20Trojan%20Horse%20ProRat%20%281%29.pdf)
 - 📰 [Iris Recognition Using Annotated Segmentation & SIFT on CASIA-Iris-Thousand (Published Article, PDF)](Iris%20Recognition%20Using%20Annotated%20Segmentation%20%26%20SIFT%20on%20CASIA-Iris-Thousand.pdf)
 
 ---
