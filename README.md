@@ -1,4 +1,5 @@
 # portfolio
+
 # 📁 Raiane Yahiaoui | Portfolio
 
 Welcome to my personal portfolio website!  
@@ -15,12 +16,19 @@ Showcasing my background in **Telecommunications Systems**, **AI**, and **Cybers
 
 ## 🏆 Professional Certifications
 
-- 🛡️ Introduction to Cybersecurity – Cisco
-- 🌐 Applications of TCP/IP Networks – Huawei
-- 🏭 Critical Infrastructure Protection – OPSWAT Academy
-- 📚 IELTS Academic Test Preparation – University of Queensland
-- 🤖 AI for Beginners – Simplilearn
-- 💻 Responsive Web Design – FreeCodeCamp
+- 🛡️ [Introduction to Cybersecurity – Cisco (PDF)](certificates/Cisco_Cybersecurity_Certificate.pdf)
+- 🌐 [Applications of TCP/IP Networks – Huawei (PDF)](certificates/Huawei_TCPIP_Certificate.pdf)
+- 🏭 [Critical Infrastructure Protection – OPSWAT Academy (PDF)](certificates/OPSWAT_Critical_Infrastructure.pdf)
+- 📚 [IELTS Academic Test Preparation – University of Queensland (PDF)](certificates/IELTS_UQ.pdf)
+- 🤖 [Artificial Intelligence for Beginners – Simplilearn (PDF)](certificates/AI_Beginners_Simplilearn.pdf)
+- 💻 [Responsive Web Design – FreeCodeCamp (PDF)](certificates/Responsive_Web_Design_FCC.pdf)
+
+## 📄 CV & Publications
+
+- 📥 [Download CV (PDF)](docs/Raiane_Yahiaoui_CV.pdf)
+- 📑 [Comparative study of deep neural networks architectures, using CASIA and UbirisV2 datasets for iris recognition (Master Thesis, PDF)](docs/Master's degree graduation thesis.pdf)
+- 📑 [Design and implementation of a Trojan Horse “ProRat” (Baccalaureate Thesis, PDF)](docs/Thesis of Baccalaureate Degree (Design and Implementation of a Trojan Horse ProRat (1).pdf)
+- 📰 [Published Article (PDF)](docs/Published_Article.pdf)
 
 ## 📂 Featured Projects
 
@@ -29,11 +37,6 @@ Showcasing my background in **Telecommunications Systems**, **AI**, and **Cybers
 
 - **[ResNet50-Image-Classification](https://github.com/raianeyahiaoui/ResNet50-Image-Classification)**
   - High-accuracy image classification using transfer learning.
-
-## 📄 CV & Publications
-
-- 📥 *Coming soon*: [Download CV (PDF)](#)
-- 📰 *Coming soon*: [Published Articles (PDF)](#)
 
 ## 📬 Contact
 
@@ -50,3 +53,4 @@ Showcasing my background in **Telecommunications Systems**, **AI**, and **Cybers
 ---
 
 > © 2025 Raiane Yahiaoui. All rights reserved.
+
