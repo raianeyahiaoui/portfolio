@@ -1,53 +1,56 @@
-# portfolio
 
 # 📁 Raiane Yahiaoui | Portfolio
 
 Welcome to my personal portfolio website!  
 Showcasing my background in **Telecommunications Systems**, **AI**, and **Cybersecurity**.
 
+---
+
 ## 🚀 About Me
 
-👩‍💻 **Raiane Yahiaoui** — Telecommunications Systems Engineer & AI/Cybersecurity Researcher
+👩‍💻 **Raiane Yahiaoui**  
+*Telecommunications Systems Engineer & AI/Cybersecurity Researcher*
 
-- 🎓 Master’s in Telecommunication Systems (2024)
-- 🔬 Research: Biometric security, deep learning, cybersecurity threats
-- 💡 Projects: Iris recognition, neural networks, malware analysis
-- 🌍 Aiming to innovate in software engineering & security
+---
 
 ## 🏆 Professional Certifications
 
-<div align="center">
+<p align="center">
+  <img src="Course certaficate of Introduction to Cybersecurity from CISCO.jpg" alt="Cisco Cybersecurity Certificate" width="160"/>
+  <img src="Course certaficate of Applications of TCP and IP network from HUAWEI.jpeg" alt="Huawei TCP/IP Certificate" width="160"/>
+  <img src="Course certaficate of Introduction to Critical Infrastructure Protection from OPSWAT.png" alt="OPSWAT Critical Infrastructure Certificate" width="160"/>
+  <img src="IELTS Academic test preparation.jpg" alt="IELTS UQ Certificate" width="160"/>
+  <img src="Certaficate of Artificial Intelligence Beginner Guide.png" alt="Simplilearn AI Certificate" width="160"/>
+  <img src="Certaficate of Responsive Web Designe.png" alt="FreeCodeCamp Responsive Web Design Certificate" width="160"/>
+</p>
 
-🛡️ <img src="certificates/cisco_certificate.jpg" alt="Cisco Cybersecurity Certificate" width="180"/>  
-🌐 <img src="certificates/huawei_certificate.jpg" alt="Huawei TCP/IP Certificate" width="180"/>  
-🏭 <img src="certificates/opswat_certificate.jpg" alt="OPSWAT Critical Infrastructure Certificate" width="180"/>  
-📚 <img src="certificates/ielts_certificate.jpg" alt="IELTS UQ Certificate" width="180"/>  
-🤖 <img src="certificates/simplilearn_ai_certificate.PNG" alt="Simplilearn AI Certificate" width="180"/>  
-💻 <img src="certificates/freecodecamp_certificate.PNG" alt="FreeCodeCamp Responsive Web Design Certificate" width="180"/>  
-
-</div>
-
-*(All certificates displayed as images. Click on the images to enlarge.)*
+---
 
 ## 📄 CV & Publications
 
-- 📥 [Download CV (PDF)](docs/Raiane_Yahiaoui_CV.pdf)
-- 📑 [Comparative study of deep neural networks architectures, using CASIA and UbirisV2 datasets for iris recognition (Master Thesis, PDF)](docs/Master's%20degree%20graduation%20thesis%20.pdf)
-- 📑 [Design and Implementation of a Trojan Horse “ProRat” (Baccalaureate Thesis, PDF)](docs/Thesis%20of%20Baccalaureate%20Degree%20(Design%20and%20Implementation%20of%20a%20Trojan%20Horse%20ProRat%20(1)%20.pdf)
-- 📰 [Iris Recognition Using Annotated Segmentation & SIFT on CASIA-Iris-Thousand (Published Article, PDF)](docs/Iris%20Recognition%20Using%20Annotated%20Segmentation%20%26%20SIFT%20on%20CASIA-Iris-Thousand%20.pdf)
+- 📥 [Download CV (PDF)](Raiane_Yahiaoui_CV.pdf)
+- 📑 [Comparative study of deep neural networks architectures, using CASIA and UbirisV2 datasets for iris recognition (Master Thesis, PDF)](Master's%20degree%20graduation%20%20thesis.pdf)
+- 📑 [Design and Implementation of a Trojan Horse “ProRat” (Baccalaureate Thesis, PDF)](Thesis%20of%20Baccalaureate%20Degree%20(Design%20and%20Implementation%20of%20a%20Trojan%20Horse%20ProRat%20(1).pdf)
+- 📰 [Iris Recognition Using Annotated Segmentation & SIFT on CASIA-Iris-Thousand (Published Article, PDF)](Iris%20Recognition%20Using%20Annotated%20Segmentation%20%26%20SIFT%20on%20CASIA-Iris-Thousand.pdf)
+
+---
 
 ## 📂 Featured Projects
 
-- **[Iris-Recognition-Pipeline-using-CASIA-Iris-Thousand](https://github.com/raianeyahiaoui/Iris-Recognition-Pipeline-using-CASIA-Iris-Thousand)**
-  - Feature-based iris recognition pipeline with SIFT keypoint detection.
+- **[Iris-Recognition-Pipeline-using-CASIA-Iris-Thousand](https://github.com/raianeyahiaoui/Iris-Recognition-Pipeline-using-CASIA-Iris-Thousand)**  
+  Feature-based iris recognition pipeline with SIFT keypoint detection.
 
-- **[ResNet50-Image-Classification](https://github.com/raianeyahiaoui/ResNet50-Image-Classification)**
-  - High-accuracy image classification using transfer learning.
+- **[ResNet50-Image-Classification](https://github.com/raianeyahiaoui/ResNet50-Image-Classification)**  
+  High-accuracy image classification using transfer learning.
+
+---
 
 ## 📬 Contact
 
-- Email: [ikba.king2015@gmail.com](mailto:ikba.king2015@gmail.com)
+- **Email:** [ikba.king2015@gmail.com](mailto:ikba.king2015@gmail.com)
 - Or use the contact form on the website!
+
+---
 
 ## 🌐 Connect with Me
 
@@ -59,4 +62,5 @@ Showcasing my background in **Telecommunications Systems**, **AI**, and **Cybers
 ---
 
 > © 2025 Raiane Yahiaoui. All rights reserved.
+
 
