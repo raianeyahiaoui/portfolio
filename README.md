@@ -13,15 +13,63 @@ Showcasing my background in **Telecommunications Systems**, **AI**, and **Cybers
 
 ---
 
+## 💼 Experience
+
+**Facilitator and Programming Trainer**  
+*STC Academy, Koléa city 128* — *2024 (1 month)*  
+- Supervised tech workshops for children aged 7 to 16.
+- Taught basic programming in Scratch and introduced AI concepts using beginner-friendly tools.
+- Encouraged creativity and digital curiosity in youth using English as the primary language.
+
+**Customer Service Optimization**  
+*CAAR Assurance, Koléa cité 128* — *2022 - 2023*  
+- Contacted clients to update or renew auto/travel insurance policies.
+- Presented coverage options and improved customer retention.
+
+**Telecommunications Technician**  
+*Algeria Telecom, Blida* — *2021 - 2022*  
+- Assisted with fiber optic installations, modem configurations, and line repairs.
+- Gained hands-on experience with network infrastructure and customer installations.
+
+---
+
+## 🎓 Education
+
+- **Master 2 en Systèmes de Télécommunication**  
+  *Université de Saad Dahleb* — 2022 - 2024
+
+- **Licence en Télécommunications**  
+  *Université de Saad Dahleb* — 2019 - 2022
+
+---
+
+## 🛠 Technical Skills
+
+- **Programming:** Python, Java, JavaScript, MATLAB
+- **Web:** HTML, CSS, Responsive Design
+- **AI/ML:** Deep Learning, Computer Vision, Neural Networks
+- **Tools:** Git, GitHub, Linux, Cisco Packet Tracer
+- **Platforms:** Windows, Ubuntu
+
+---
+
+## 🌐 Languages
+
+- **Arabic:** Native  
+- **French:** Fluent  
+- **English:** Fluent (IELTS preparation completed)
+
+---
+
 ## 🏆 Professional Certifications
 
 <p align="center">
-  <img src="Course certaficate of Introduction to Cybersecurity from CISCO.jpg" alt="Cisco Cybersecurity Certificate" height="120" style="margin:5px"/>
-  <img src="Course certaficate of Applications of TCP and IP network from HUAWEI.jpeg" alt="Huawei TCP/IP Certificate" height="120" style="margin:5px"/>
-  <img src="Course certaficate of Introduction to Critical Infrastructure Protection from OPSWAT.png" alt="OPSWAT Critical Infrastructure Certificate" height="120" style="margin:5px"/>
-  <img src="IELTS Academic test preparation.jpg" alt="IELTS UQ Certificate" height="120" style="margin:5px"/>
-  <img src="Certaficate of Artificial Intelligence Beginner Guide.png" alt="Simplilearn AI Certificate" height="120" style="margin:5px"/>
-  <img src="Certaficate of Responsive Web Designe.png" alt="FreeCodeCamp Responsive Web Design Certificate" height="120" style="margin:5px"/>
+  <img src="Course certaficate of Introduction to Cybersecurity from CISCO.jpg" alt="Cisco Cybersecurity Certificate" height="120"/>
+  <img src="Course certaficate of Applications of TCP and IP network from HUAWEI.jpeg" alt="Huawei TCP/IP Certificate" height="120"/>
+  <img src="Course certaficate of Introduction to Critical Infrastructure Protection from OPSWAT.png" alt="OPSWAT Critical Infrastructure Certificate" height="120"/>
+  <img src="IELTS Academic test preparation.jpg" alt="IELTS UQ Certificate" height="120"/>
+  <img src="Certaficate of Artificial Intelligence Beginner Guide.png" alt="Simplilearn AI Certificate" height="120"/>
+  <img src="Certaficate of Responsive Web Designe.png" alt="FreeCodeCamp Responsive Web Design Certificate" height="120"/>
 </p>
 
 ---
@@ -62,5 +110,3 @@ Showcasing my background in **Telecommunications Systems**, **AI**, and **Cybers
 ---
 
 > © 2025 Raiane Yahiaoui. All rights reserved.
-
-
